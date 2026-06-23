@@ -1,0 +1,18 @@
+You cannot run .csv files directly on GitHub. GitHub is only for storing code and data. To run the analysis, you need to use Google Colab or Jupyter Notebook.
+1. In this repo, click Add file → Upload files
+2. Select your hospital.csv file and upload it
+3. Click Commit changes
+1. Go to Google Colab: https://colab.research.google.com
+2. Click File → Open notebook → Select the GitHub tab
+3. Search for adharsha-22/hospital and select your repo
+Run this in a new code cell in Colab:
+You can then run these basic commands:
+1. *Total Patients:* len(df)
+2. *Most Common Disease:* df['Disease'].value_counts()
+3. *Gender Ratio:* df['Gender'].value_counts()
+4. *Average Bill:* df['Bill amount'].mean()
+1. hospital.csv - Main dataset
+2. README.md - Project description  
+3. RUN.md - This instruction file
+1. *FileNotFoundError:* Make sure hospital.csv is uploaded to your repo
+2. *Column Name Error:* The column Bill amount has a space. Use it exactly as shown in the code

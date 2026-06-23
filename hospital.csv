@@ -1,0 +1,21 @@
+﻿Patient-ID,Name,Age,Gender,Disease,Admission-Date,Bill amount
+P001,Ravi,35,male,Fever,20-06-2026,2500
+P002,Priya,28,female,Diabetes,20-06-2026,6000
+P003,Karthik,42,male,Asthma,19-06-2026,4500
+P004,Divya,31,female,Cold,19-06-2026,2000
+P005,Arjun,25,male,Headache,18-06-2026,1500
+P006,Meena,40,female,Hypertension,18-06-2026,7000
+P007,Suresh,55,male,Heart Disease,17-06-2026,12000
+P008,Kavya,22,female,Dengue,17-06-2026,5000
+P009,Mani,47,male,Typhoid,16-06-2026,6500
+P010,Anitha,30,female,Allergy,16-06-2026,3000
+P011,Arun Kumar,45,male,Diabites,21-06-2026,6500
+P012,Sneha,29,Female,Fever,21-06-2026,2500
+P013,Vignesh,38,Male,Asthma,20-06-2026,6500
+P014,Keerthana,24,Female,Dengue,20-06-2026,7000
+P015,Praveen,50,Male,Hypertension,19-06-2026,2000
+P016,Nisha,33,Female,Allergy,17-06-2026,3000
+P017,Hari,45,Male,Cold,18-06-2026,2000
+P018,Swathi,41,Female,Typhoid,18-06-2026,6500
+P019,Kiran,23,Male,Fever,17-06-2026,2500
+P020,Aarthi,54,Female,Cold,13-06-2026,6500
